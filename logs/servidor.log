@@ -1,0 +1,7 @@
+2026-10-26 17:33:59 | INFO | telefonia | Inicializando servidor de telefonia
+2026-10-26 17:33:59 | INFO | telefonia | Servidor iniciado | Porta: 5000 | Usuários carregados: 0
+2026-10-26 17:51:38 | INFO | telefonia | Conexão recebida de 127.0.0.1:58561
+2026-10-26 17:51:38 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:58561
+2026-10-26 17:51:38 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:58561
+2026-10-26 18:00:33 | INFO | telefonia | Inicializando servidor de telefonia
+2026-10-26 18:00:33 | INFO | telefonia | Servidor iniciado | Porta: 5000 | Usuários carregados: 0
