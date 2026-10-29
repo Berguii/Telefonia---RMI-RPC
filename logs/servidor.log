@@ -5,3 +5,58 @@
 2026-10-26 17:51:38 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:58561
 2026-10-26 18:00:33 | INFO | telefonia | Inicializando servidor de telefonia
 2026-10-26 18:00:33 | INFO | telefonia | Servidor iniciado | Porta: 5000 | Usuários carregados: 0
+2026-10-29 13:52:19 | INFO | telefonia | Inicializando servidor de telefonia
+2026-10-29 13:52:19 | INFO | telefonia | Servidor iniciado | Porta: 5000 | Usuários carregados: 0
+2026-10-29 13:53:01 | INFO | telefonia | Conexão recebida de 127.0.0.1:52527
+2026-10-29 13:53:01 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:52527
+2026-10-29 13:53:01 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:52527
+2026-10-29 13:53:25 | INFO | telefonia | Inicializando servidor de telefonia
+2026-10-29 13:53:25 | INFO | telefonia | Servidor iniciado | Porta: 5000 | Usuários carregados: 0
+2026-10-29 13:53:42 | INFO | telefonia | Conexão recebida de 127.0.0.1:62667
+2026-10-29 13:53:42 | INFO | telefonia | Operação recebida: cadastrar | Cliente: 127.0.0.1:62667
+2026-10-29 13:53:42 | INFO | telefonia | Operação cadastrar processada | Cliente: 127.0.0.1:62667
+2026-10-29 13:53:44 | INFO | telefonia | Conexão recebida de 127.0.0.1:62668
+2026-10-29 13:53:44 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:62668
+2026-10-29 13:53:44 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:62668
+2026-10-29 13:53:51 | INFO | telefonia | Conexão recebida de 127.0.0.1:62669
+2026-10-29 13:53:51 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:62669
+2026-10-29 13:53:51 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:62669
+2026-10-29 13:53:52 | INFO | telefonia | Conexão recebida de 127.0.0.1:62670
+2026-10-29 13:53:52 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:62670
+2026-10-29 13:53:52 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:62670
+2026-10-29 13:53:54 | INFO | telefonia | Conexão recebida de 127.0.0.1:64881
+2026-10-29 13:53:54 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:64881
+2026-10-29 13:53:54 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:64881
+2026-10-29 13:53:54 | INFO | telefonia | Conexão recebida de 127.0.0.1:64882
+2026-10-29 13:53:54 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:64882
+2026-10-29 13:53:54 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:64882
+2026-10-29 13:53:57 | INFO | telefonia | Conexão recebida de 127.0.0.1:64883
+2026-10-29 13:53:57 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:64883
+2026-10-29 13:53:57 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:64883
+2026-10-29 13:54:00 | INFO | telefonia | Conexão recebida de 127.0.0.1:64884
+2026-10-29 13:54:00 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:64884
+2026-10-29 13:54:00 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:64884
+2026-10-29 13:54:03 | INFO | telefonia | Conexão recebida de 127.0.0.1:64885
+2026-10-29 13:54:03 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:64885
+2026-10-29 13:54:03 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:64885
+2026-10-29 13:54:06 | INFO | telefonia | Conexão recebida de 127.0.0.1:64886
+2026-10-29 13:54:06 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:64886
+2026-10-29 13:54:06 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:64886
+2026-10-29 13:54:09 | INFO | telefonia | Conexão recebida de 127.0.0.1:64887
+2026-10-29 13:54:09 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:64887
+2026-10-29 13:54:09 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:64887
+2026-10-29 13:54:10 | INFO | telefonia | Conexão recebida de 127.0.0.1:64888
+2026-10-29 13:54:10 | INFO | telefonia | Operação recebida: cadastrar | Cliente: 127.0.0.1:64888
+2026-10-29 13:54:10 | INFO | telefonia | Operação cadastrar processada | Cliente: 127.0.0.1:64888
+2026-10-29 13:54:12 | INFO | telefonia | Conexão recebida de 127.0.0.1:64889
+2026-10-29 13:54:12 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:64889
+2026-10-29 13:54:12 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:64889
+2026-10-29 13:54:12 | INFO | telefonia | Conexão recebida de 127.0.0.1:64890
+2026-10-29 13:54:12 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:64890
+2026-10-29 13:54:12 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:64890
+2026-10-29 13:54:38 | INFO | telefonia | Conexão recebida de 127.0.0.1:49413
+2026-10-29 13:54:38 | INFO | telefonia | Operação recebida: cadastrar | Cliente: 127.0.0.1:49413
+2026-10-29 13:54:38 | INFO | telefonia | Operação cadastrar processada | Cliente: 127.0.0.1:49413
+2026-10-29 13:54:40 | INFO | telefonia | Conexão recebida de 127.0.0.1:49414
+2026-10-29 13:54:40 | INFO | telefonia | Operação recebida: listar | Cliente: 127.0.0.1:49414
+2026-10-29 13:54:40 | INFO | telefonia | Operação listar processada | Cliente: 127.0.0.1:49414

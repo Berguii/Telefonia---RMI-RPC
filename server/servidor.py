@@ -2,7 +2,7 @@
 import json
 import socketserver
 
-from .logs import logger
+from server.logs import logger
 from server.repository import UsuarioRepository
 from server.json_storage import JsonStorage
 from server.service import TelefoniaService
