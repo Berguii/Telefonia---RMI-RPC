@@ -1,3 +1,5 @@
+#Terminal por console ficou pra trás, não precisará mais ser utilizado
+
 class TerminalView:
     def __init__(self, controller):
         self.controller = controller
